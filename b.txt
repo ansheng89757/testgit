@@ -1,0 +1,10 @@
+include<iostream>
+inlclude<vector>
+int main(){
+
+	while(1){
+	cout<<hello<<endl;
+	sleep(1);
+	}
+
+}
