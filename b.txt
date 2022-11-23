@@ -3,7 +3,7 @@ inlclude<vector>
 int main(){
 
 	while(1){
-	cout<<hello<<endl;
+	cout<<"hello"<<endl;
 	sleep(1);
 	}
 
